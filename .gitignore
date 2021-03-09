@@ -1,0 +1,5 @@
+
+**/create-repo/*.tfstate*
+**/create-repo/.terraform
+**/project/terraform/*.tfstate*
+**/project/terraform/.terraform
